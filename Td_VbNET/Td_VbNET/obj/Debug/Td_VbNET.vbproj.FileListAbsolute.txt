@@ -1,3 +1,12 @@
 C:\Users\DIEUMERCI\Desktop\GITHUB\Td_Groupe1\Td_VbNET\Td_VbNET\bin\Debug\Td_VbNET.exe.config
 D:\github\Td_Groupe1\Td_VbNET\Td_VbNET\bin\Debug\Td_VbNET.exe.config
 C:\GITHUBL3\Td_Groupe1\Td_VbNET\Td_VbNET\bin\Debug\Td_VbNET.exe.config
+D:\github\Td_Groupe1\Td_VbNET\Td_VbNET\bin\Debug\Td_VbNET.exe
+D:\github\Td_Groupe1\Td_VbNET\Td_VbNET\bin\Debug\Td_VbNET.pdb
+D:\github\Td_Groupe1\Td_VbNET\Td_VbNET\bin\Debug\Td_VbNET.xml
+D:\github\Td_Groupe1\Td_VbNET\Td_VbNET\obj\Debug\Td_VbNET.Form1.resources
+D:\github\Td_Groupe1\Td_VbNET\Td_VbNET\obj\Debug\Td_VbNET.Resources.resources
+D:\github\Td_Groupe1\Td_VbNET\Td_VbNET\obj\Debug\Td_VbNET.vbproj.GenerateResource.Cache
+D:\github\Td_Groupe1\Td_VbNET\Td_VbNET\obj\Debug\Td_VbNET.exe
+D:\github\Td_Groupe1\Td_VbNET\Td_VbNET\obj\Debug\Td_VbNET.xml
+D:\github\Td_Groupe1\Td_VbNET\Td_VbNET\obj\Debug\Td_VbNET.pdb
